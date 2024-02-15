@@ -1,5 +1,7 @@
 # GildedRose Kata Refactored - PHP Version
 
+https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/README.md
+
 **Отрефакторенная версия задания с GitHub. Проект для подсчёта качества товаров разной категории с использованием бизнес логики:**
 - Все товары имеют свойство «sellIn» (срок хранения), которое обозначает количество
   дней в течение которых мы должны продать товар;
